@@ -1,0 +1,6 @@
+Pollo,Carne,2005,71800000
+Pollo,Carne2,2005,90900000
+Pollo,Carne,2004,88900000
+Gallina,Huevo,2005,43000000
+Gallina,Huevo2,2005,55000000
+Gallina,Huevo3,2005,75600000
